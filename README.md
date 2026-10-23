@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0052-n-queens-ii) |
 ## Algorithm X
