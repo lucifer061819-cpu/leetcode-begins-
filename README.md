@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
