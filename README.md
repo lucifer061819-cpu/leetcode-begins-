@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -114,16 +116,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
