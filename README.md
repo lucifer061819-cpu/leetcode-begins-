@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
