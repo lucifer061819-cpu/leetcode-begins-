@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
