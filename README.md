@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -232,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
