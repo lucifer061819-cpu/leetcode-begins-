@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
