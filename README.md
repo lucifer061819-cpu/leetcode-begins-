@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 ## Divide and Conquer
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0226-invert-binary-tree) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0226-invert-binary-tree) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0226-invert-binary-tree) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
