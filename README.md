@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0136-single-number) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
