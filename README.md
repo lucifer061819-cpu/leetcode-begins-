@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
