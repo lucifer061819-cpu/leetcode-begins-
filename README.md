@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
