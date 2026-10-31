@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 ## Stack
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
