@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0040-combination-sum-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 ## Stack
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
