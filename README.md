@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
