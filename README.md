@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
