@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
+| [0707-design-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0707-design-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0707-design-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
