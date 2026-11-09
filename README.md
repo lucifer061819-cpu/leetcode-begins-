@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/2390-removing-stars-from-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0141-linked-list-cycle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0226-invert-binary-tree) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
