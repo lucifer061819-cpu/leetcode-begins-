@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
