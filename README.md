@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
 ## Queue
 |  |
