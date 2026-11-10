@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
