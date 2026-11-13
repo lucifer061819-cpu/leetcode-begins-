@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
