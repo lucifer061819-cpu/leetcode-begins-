@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -407,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
