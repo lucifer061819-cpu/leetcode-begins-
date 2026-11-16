@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -343,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -389,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -398,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -440,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
