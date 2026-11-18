@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0649-dota2-senate) |
 | [2390-removing-stars-from-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0649-dota2-senate) |
 | [1382-balance-a-binary-search-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1382-balance-a-binary-search-tree) |
 ## Manacher
 |  |
