@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
