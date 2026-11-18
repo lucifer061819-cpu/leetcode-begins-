@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0300-longest-increasing-subsequence) |
 | [0622-design-circular-queue](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0994-rotting-oranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0707-design-linked-list) |
 ## Binary Tree
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0641-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
