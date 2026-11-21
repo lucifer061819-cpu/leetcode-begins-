@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0146-lru-cache) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/lucifer061819-cpu/leetcode-begins-/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
